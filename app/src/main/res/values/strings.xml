@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageCleaner</string>
+    <string name="LoadImageButton">Load image</string>
+    <string name="NextButton">Next</string>
+    <string name="ImageContent">image from gallery</string>
+    <string name="Step1">Step 1</string>
+    <string name="Step2">Step 2</string>
+    <string name="Step3">Step 3</string>
+    <string name="Main_arrowRightString">to Step 2</string>
+
+</resources>

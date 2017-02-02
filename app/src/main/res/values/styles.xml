@@ -1,0 +1,45 @@
+<resources>
+
+    <style name="CustomButton">
+        <item name="android:textColor">@color/colorLiteGreenBackground</item>
+        <item name="android:paddingLeft">30dp</item>
+        <item name="android:paddingRight">30dp</item>
+        <item name="android:paddingTop">7dp</item>
+        <item name="android:paddingBottom">7dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">@drawable/button_green</item>
+    </style>
+
+    <style name="customTextView">
+        <item name="android:textColor">@color/colorGreen</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="customActionBarText">
+        <item name="android:textColor">@color/colorLiteGreenBackground</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="customActionBar" parent="Base.Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/colorGreen</item>
+        <item name="android:titleTextStyle">@style/customActionBarText</item>
+    </style>
+
+    <style name="CustomAlertDialogStyle">
+        <item name="android:bottomBright">@color/transparent</item>
+        <item name="android:bottomDark">@color/transparent</item>
+        <item name="android:bottomMedium">@color/transparent</item>
+        <item name="android:centerBright">@color/transparent</item>
+        <item name="android:centerDark">@color/transparent</item>
+        <item name="android:centerMedium">@color/transparent</item>
+        <item name="android:fullBright">@color/transparent</item>
+        <item name="android:fullDark">@color/transparent</item>
+        <item name="android:topBright">@color/transparent</item>
+        <item name="android:topDark">@color/transparent</item>
+    </style>
+
+
+</resources>
